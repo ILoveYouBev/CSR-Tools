@@ -1,0 +1,1 @@
+CSR Tools 5.0.1 adds a toggle for website-based picking mode. It includes priority fill rates with shared stock allocation and shortage remarks, banana summaries from fulfillment reports, and automatic license plate filtering and rotation.
