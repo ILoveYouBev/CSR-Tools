@@ -1,1 +1,2 @@
-CSR Tools 5.0.1 adds a toggle for website-based picking mode. It includes priority fill rates with shared stock allocation and shortage remarks, banana summaries from fulfillment reports, and automatic license plate filtering and rotation.
+Describe this update- Fixed Priority Fill Rates creating separate workbooks for the same customer when their names differed only by a contract label in parentheses. Each customer now gets one workbook with a separate tab for each PO.
+- Updates now preserve Data.Ini and existing image files, including customized picking images.
